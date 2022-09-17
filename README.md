@@ -21,7 +21,7 @@
 
 - 👯 I’m Recently working on [Patreon Clone](https://patreon-clone-lovat.vercel.app/)
 
-- 🤝 I’m Currently Working on Make My Trip [Sudoku Solver](https://github.com/hellnoid/MakeMyTrip)
+- 🤝 I’m Currently Working on Make My Trip (https://github.com/hellnoid/MakeMyTrip)
 
 - 👨‍💻 Portfolio [https://mohit-soni.netlify.app/](https://mohit-soni.netlify.app/)
 
