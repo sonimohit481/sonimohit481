@@ -4,11 +4,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohitsoni481" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohitsoni481" height="30" width="40" /></a>
+ <a href="https://mohit-soni.netlify.app/" target="blank"><img align="center" src="https://www.clipartmax.com/png/full/255-2557794_animated-person-animated-picture-of-man.png" alt="mohitsoni481" height="50" width="60" /></a>
 </p>
-<p>
-<a href="https://mohit-soni.netlify.app/" target="blank"><img align="center" src="https://www.clipartmax.com/png/full/255-2557794_animated-person-animated-picture-of-man.png" alt="mohitsoni481" height="50" width="60" /></a>
-</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonimohit481&label=Profile%20views&color=0e75b6&style=flat" alt="sonimohit481" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonimohit481" alt="sonimohit481" /></a> </p>
