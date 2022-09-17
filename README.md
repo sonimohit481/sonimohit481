@@ -3,14 +3,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohitsoni481" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohitsoni481" height="50" width="60" />Linkdin</a>
+<a href="https://linkedin.com/in/mohitsoni481" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohitsoni481" height="40" width="50" />Linkdin</a>
  <br>
   <br>
+ <a href="https://mohit-soni.netlify.app/" target="blank"><img align="center" src="https://www.clipartmax.com/png/full/255-2557794_animated-person-animated-picture-of-man.png" alt="mohitsoni481" height="40" width="50" />Portfolio</a> <br>
   <br>
- <a href="https://mohit-soni.netlify.app/" target="blank"><img align="center" src="https://www.clipartmax.com/png/full/255-2557794_animated-person-animated-picture-of-man.png" alt="mohitsoni481" height="50" width="60" />Portfolio</a> <br>
   <br>
-  <br>
-  <a href="https://drive.google.com/drive/folders/137nKZRUxLwbuA8yqFRTqw5y3KtEcq3yB?usp=sharing" target="blank"><img align="center" src="https://previews.123rf.com/images/djvstock/djvstock1801/djvstock180103960/93192085-mail-open-with-letter-smiling-cartoon.jpg" alt="mohitsoni481" height="50" width="60" />Portfolio</a>
+  <a href="https://drive.google.com/drive/folders/137nKZRUxLwbuA8yqFRTqw5y3KtEcq3yB?usp=sharing" target="blank"><img align="center" src="https://previews.123rf.com/images/djvstock/djvstock1801/djvstock180103960/93192085-mail-open-with-letter-smiling-cartoon.jpg" alt="mohitsoni481" height="40" width="50" />Resume</a>
  
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonimohit481&label=Profile%20views&color=0e75b6&style=flat" alt="sonimohit481" /> </p>
