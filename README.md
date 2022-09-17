@@ -8,7 +8,7 @@
   <br>
  <a href="https://mohit-soni.netlify.app/" target="blank"><img align="center" src="https://www.clipartmax.com/png/full/255-2557794_animated-person-animated-picture-of-man.png" alt="mohitsoni481" height="50" width="50" />Portfolio</a> <br>
   <br>
-  <a href="https://drive.google.com/drive/folders/137nKZRUxLwbuA8yqFRTqw5y3KtEcq3yB?usp=sharing" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5vR19oQNwyFn9tQBclQmtreN3t4jvn77Kkg&usqp=CAU" alt="mohitsoni481" height="40" width="50" />Resume</a>
+  <a href="https://drive.google.com/drive/folders/137nKZRUxLwbuA8yqFRTqw5y3KtEcq3yB?usp=sharing" target="blank"><img align="center" src="https://www.clipartmax.com/png/middle/185-1859226_email-icon-email-open-icon-png.png" alt="mohitsoni481" height="40" width="50" />Resume</a>
  
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonimohit481&label=Profile%20views&color=0e75b6&style=flat" alt="sonimohit481" /> </p>
