@@ -24,7 +24,7 @@
 - 🤝 I’m Currently Working on Make My Trip (https://github.com/hellnoid/MakeMyTrip)
 
 - 👨‍💻 Portfolio [https://mohit-soni.netlify.app/](https://mohit-soni.netlify.app/)
-thanks
+
 
 
 - 💬 Ask me about **I am Mohit soni From Sirsa Haryana, I am perusing my PG in Master of Computer Application From Chaudhary Devi Lal University Sirsa, Haryana. also In part time I am learning MERN Stack From Masai School Bengaluru.**
