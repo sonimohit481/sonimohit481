@@ -61,14 +61,15 @@ class Skills extends SoftwareDeveloper {
 
 
 <h2>📊  Github Stats</h2>
-<br/>
-<p align="center"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=sonimohit481&show_icons=true&theme=midnight-purple" alt="sonimohit481"/>
-<img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=sonimohit481&theme=vision-friendly-dark" alt="sonimohit481" /></p>
- <br />
- <hr/>
- <br />
 
-<p align="center">
+<br/>
+<div>
+ <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=sonimohit481&show_icons=true&theme=midnight-purple" alt="sonimohit481"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sonimohit481&theme=vision-friendly-dark" alt="sonimohit481" />
+</div>
+
+<br/>
+<p >
  <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonimohit481&layout=compact&theme=midnight-purple" />
-  <img align="right" width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonimohit481&theme=tokyonight" alt="summarycard"/> 
+  <img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonimohit481&theme=tokyonight" alt="summarycard"/> 
 </p>
