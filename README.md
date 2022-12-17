@@ -63,7 +63,7 @@ class Skills extends SoftwareDeveloper {
 <h2>📊  Github Stats</h2>
 <br/>
 <p><img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=sonimohit481&show_icons=true&theme=midnight-purple" alt="sonimohit481"/>
-<img align="right" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sonimohit481&theme=vision-friendly-dark" alt="sonimohit481" /></p>
+<img align="" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sonimohit481&theme=vision-friendly-dark" alt="sonimohit481" /></p>
  <br />
 
 <p align="center">
