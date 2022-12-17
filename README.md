@@ -1,7 +1,8 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" /> ~ I'm Mohit Soni <img width="33" bottom="-20" src="https://user-images.githubusercontent.com/97526754/173172254-697ba77e-bed8-4ffc-b1d1-2c20ede245b0.gif" /></h1>
 <h4 align="center" margin="0px">I am a Front-End Web Developer, passionate about building digital products that improve the everyday experience for people.</h4>
 <img src="https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966">
-<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="350" align="left" alt="" />
+
+<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="390" align="left" alt="" />
 
 ```js
 import SoftwareDeveloper from 'India';
@@ -16,7 +17,10 @@ class Skills extends SoftwareDeveloper {
   ui = ['Chakra-Ui', 'Material-Ui', 'Styled-Components', 'Bootstrap'];
 }
 ```
+
+
 <br/>
+<img src="https://cdn-icons-png.flaticon.com/512/1485/1485287.png" width="250" align="right" alt="" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://mohit-soni.netlify.app/)**
 - 🔭 I’m currently working on `Something Intresting`.
@@ -54,7 +58,7 @@ class Skills extends SoftwareDeveloper {
 <a href="https://wa.me/919468209127" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>
 </p>
 
-
+<!--  -->
 
 <!-- 
 <h3 align="left">Languages and Tools:</h3>
