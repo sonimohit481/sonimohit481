@@ -60,7 +60,7 @@ class Skills extends SoftwareDeveloper {
 
 
 
-<h2>📊  Github Stats</h2>
+<!-- <h2>📊  Github Stats</h2>
 
 <br/>
 <div>
@@ -71,5 +71,5 @@ class Skills extends SoftwareDeveloper {
 <br/>
 <p >
  <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonimohit481&layout=compact&theme=midnight-purple" />
-  <img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonimohit481&theme=tokyonight" alt="summarycard"/> 
+  <img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonimohit481&theme=tokyonight" alt="summarycard"/>  -->
 </p>
